@@ -195,7 +195,7 @@ public class TrainIndicator {
 		System.out.println("|-----------|------------|----------------------|-------------|");
 		System.out.println("|    8      |    S       | Thane => Panvel      | 7.14=>8.06  |");
 		System.out.println("|-----------|------------|----------------------|-------------|");
-		System.out.println("|    9      |    S       | Thane => Vashi       | 7.19=>8.47  |");
+		System.out.println("|    9      |    S       | Thane => Vashi       | 7.19=>8.00  |");
 		System.out.println("|-----------|------------|----------------------|-------------|");
 		System.out.println("|    10     |    SF      | CSMT => Asangaon     | 8.00=>9.52  |");
 		System.out.println("|-----------|------------|----------------------|-------------|");
